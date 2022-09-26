@@ -1,4 +1,4 @@
-# About_Me
+
 # 💫 About Me:
 🔭 I’m currently Frontend Developer<br>🌱 I’m currently learning more about Fullstack Development<br>💬 Tech Content Creator <br>⚡ Fun fact: I'm twitch streamer on my free time.
 
